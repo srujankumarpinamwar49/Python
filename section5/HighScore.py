@@ -12,3 +12,5 @@ for score in student_scores:
         highest_score = score
 
 print(f"The highest score in the class is: {highest_score}")
+
+
