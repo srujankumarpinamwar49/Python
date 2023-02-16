@@ -19,9 +19,4 @@ while number_of_hurdles > 0:
     jump()
     number_of_hurdles -= 1
     print(number_of_hurdles)
-Basic commands
-Defining
-Loops
-Decisions
-Conditions
-Using variables
+
